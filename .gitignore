@@ -1,0 +1,6 @@
+nimcache
+tall
+*.o
+*.a
+*.so
+.vscode
